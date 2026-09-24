@@ -47,5 +47,5 @@ Para facilitar a compreensão do funcionamento do sistema, utilizamos a **analog
 
 📄 **[Ver Apresentação dos Slides em PDF](./Sistema_de_cadastro_de_amigos.pptx)**
 
-- 🖥️ **[Abrir Apresentação Interativa (Microsoft Office Web)](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/LauraHelena93/seu-repositorio/main/Sistema_de_cadastro_de_amigos.pptx)**
+- 🖥️ **[Abrir Apresentação Interativa (Microsoft Office Web)](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/LauraHelena93/Apresentacao_Sistema/main/Sistema_de_cadastro_de_amigos.pptx)**
 
